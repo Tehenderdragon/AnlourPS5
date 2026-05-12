@@ -7,6 +7,9 @@
         margin-top: -280px;*/
 }
 
+.ds4.disconnected {
+    display: none;
+}
 .ds4.disconnected div {
     display: none;
 }
